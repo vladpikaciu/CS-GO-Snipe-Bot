@@ -16,8 +16,5 @@ Seizing the opportunity has never been easier! By clicking on the buttons below 
 
 Take advantage of the CS:GO Snipe Bot to maximize your profits and build your dream inventory. Embrace the power of automation and stay ahead of the competition.
 
-[]()
-
 [**Discord Link**](https://discord.gg/ED9qtr5R5x)
 
-Let the bot handle the tedious work while you focus on mastering the game! 🚀💎
