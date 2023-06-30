@@ -18,3 +18,6 @@ Take advantage of the CS:GO Snipe Bot to maximize your profits and build your dr
 
 [**Discord Link**](https://discord.gg/ED9qtr5R5x)
 
+[**Screenshots Album**](https://photos.app.goo.gl/QV1j2yz6ubqauAUZA)
+
+
