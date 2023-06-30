@@ -1,6 +1,6 @@
 # 🎯 CS:GO Snipe Bot 🎯
 
-Discover the power of automated skin trading with our CS:GO Snipe Bot, a Python and MySQL based project that revolutionizes the way you buy and sell skins in the Counter-Strike: Global Offensive market.
+Discover the power of automated skin trading with our CS:GO Snipe Bot that revolutionizes the way you buy and sell skins in the Counter-Strike: Global Offensive market.
 
 - 🔍 Market Scraping:
 Our bot scours various CS:GO markets, tirelessly collecting all skin listings to ensure you never miss a lucrative opportunity.
